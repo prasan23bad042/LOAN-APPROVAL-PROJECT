@@ -75,7 +75,7 @@ Datasets used:
 
 ### 🔹 Loan Approval Prediction Result (Logistic Regression)
 
-![Loan Approval Prediction Output](output .jpg)
+![Loan Approval Prediction Output](https://github.com/prasan23bad042/LOAN-APPROVAL-PROJECT/blob/main/output%20.jpg?raw=true)
 
 > The above image shows the **Logistic Regression model output**, including prediction execution and the **accuracy score (~77.29%)** obtained on the validation dataset.
 
